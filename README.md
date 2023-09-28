@@ -95,21 +95,6 @@ I have deployed this project on a cloud platform Render.com
 https://ginger-app.onrender.com/
 
 
-## FAQ
-
-#### Why I have used Chakra UI Library?
-
-Chakra UI is a popular and highly regarded React UI library known for its accessibility, ease of use, and customization options.
-Chakra UI provides a set of predefined styles and components.
-
-#### Why I have used Socket.io for real-time messaging?
-
-I have used Socket.io for real-time communication in web applications, enabling instant updates and interactions between clients and the server.
-
-#### Why I have used JWT and bcrypt.js for authentication?
-
-I have used JWT (JSON Web Tokens) for secure user authentication and authorization, while bcrypt.js is used to securely hash and store user passwords in databases.
-
 
 ## Screenshots
 
@@ -140,4 +125,22 @@ I have used JWT (JSON Web Tokens) for secure user authentication and authorizati
 
 ### View User Profile
 ![](https://github.com/antriksh-9/Ginger_chat-app/blob/master/Screenshots/View%20Users%20profile.png)
+
+
+
+
+## FAQ
+
+#### Why I have used Chakra UI Library?
+
+Chakra UI is a popular and highly regarded React UI library known for its accessibility, ease of use, and customization options.
+Chakra UI provides a set of predefined styles and components.
+
+#### Why I have used Socket.io for real-time messaging?
+
+I have used Socket.io for real-time communication in web applications, enabling instant updates and interactions between clients and the server.
+
+#### Why I have used JWT and bcrypt.js for authentication?
+
+I have used JWT (JSON Web Tokens) for secure user authentication and authorization, while bcrypt.js is used to securely hash and store user passwords in databases.
 
