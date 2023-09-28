@@ -1,3 +1,6 @@
+- Name: Antriksh Dangi 
+- College: IIT Dhanbad
+- Department: B.Tech (Mechanical Engineering)
 
 # Ginger
 
