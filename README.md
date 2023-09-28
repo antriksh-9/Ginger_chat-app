@@ -2,6 +2,9 @@
 - College: IIT Dhanbad
 - Department: B.Tech (Mechanical Engineering)
 
+### System Design Document: 
+https://github.com/antriksh-9/Ginger_chat-app/blob/master/System%20Design%20doc.pdf
+
 # Ginger
 
 Ginger is a messaging service prototype It uses Socket.io for real time communication and stores user details in encrypted format in Mongo DB Database.
