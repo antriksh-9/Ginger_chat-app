@@ -138,3 +138,6 @@ I have used JWT (JSON Web Tokens) for secure user authentication and authorizati
 ### Chatbot
 ![](https://github.com/antriksh-9/Ginger_chat-app/blob/master/Screenshots/Chatbot.png)
 
+### View User Profile
+![](https://github.com/antriksh-9/Ginger_chat-app/blob/master/Screenshots/View%20Users%20profile.png)
+
