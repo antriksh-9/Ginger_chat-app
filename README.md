@@ -28,6 +28,8 @@ Database: Mongo DB
 - Add or Remove users from group
 - View Other user Profile
 - Login Password Encryption
+- Chat history is saved
+- Responsive web app
 
 
 ## Optional Features
