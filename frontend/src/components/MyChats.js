@@ -120,5 +120,4 @@ const MyChats = ({fetchAgain}) => {
   );
 };
 
-// my chats
 export default MyChats;
