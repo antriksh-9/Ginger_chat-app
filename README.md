@@ -113,5 +113,13 @@ I have used JWT (JSON Web Tokens) for secure user authentication and authorizati
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![](https://github.com/antriksh-9/Ginger_chat-app/blob/master/Screenshots/Authenticaton.png)
+![](https://github.com/antriksh-9/Ginger_chat-app/blob/master/Screenshots/Authenticaton%20(2).png)
+![](https://github.com/antriksh-9/Ginger_chat-app/blob/master/Screenshots/Real%20Time%20Chatting%20with%20Typing%20indicators.png)
+![](https://github.com/antriksh-9/Ginger_chat-app/blob/master/Screenshots/One%20to%20One%20chat.png)
+![](https://github.com/antriksh-9/Ginger_chat-app/blob/master/Screenshots/Search%20user.png)
+![](https://github.com/antriksh-9/Ginger_chat-app/blob/master/Screenshots/Create%20Group%20Chat.png)
+![](https://github.com/antriksh-9/Ginger_chat-app/blob/master/Screenshots/Notifications.png)
+![](https://github.com/antriksh-9/Ginger_chat-app/blob/master/Screenshots/Add%20or%20Remove%20users%20from%20group.png)
+![](https://github.com/antriksh-9/Ginger_chat-app/blob/master/Screenshots/Chatbot.png)
 
