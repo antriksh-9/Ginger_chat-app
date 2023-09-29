@@ -90,10 +90,6 @@ Start the client
 ```
 
 
-## Deployment
-
-I have deployed this project on a cloud platform Render.com
-
 
 ## Demo
 
